@@ -1,0 +1,16 @@
+#principal{
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.slide{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0px 220px ;
+
+}
+body{
+    background-color: #fdd07a;
+}
